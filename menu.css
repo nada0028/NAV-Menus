@@ -59,6 +59,7 @@ header{
         list-style: none;
         width: 20%;
         float: left;
+        border: 2.5px solid black;
     }
         .menu-h a,
         .menu-h a:link,
@@ -68,7 +69,7 @@ header{
             make sure there is padding around your text */
             padding: 5px;
             display: inline-block;
-            border: 2.5px solid black;
+
         }
         .menu-h a:hover,
         .menu-h a:active{
