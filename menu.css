@@ -69,16 +69,14 @@ header{
             make sure there is padding around your text */
             padding: 5px;
             display: block;
-
         }
         .menu-h a:hover,
         .menu-h a:active{
             color: #93CC00;
-            
         }
 .menu-v{
     width: 20%;
-    float:left;
+    float: left;
     margin-top: 40px;
 }
     .menu-v li{
@@ -88,7 +86,6 @@ header{
         list-style: none;
         width: 100%;
         border: 1.5px solid black;
-        
     }
         .menu-v a,
         .menu-v a:link,
@@ -96,7 +93,6 @@ header{
             color: #6B7F34;
             /* style the anchors to fill the entire width of the li */
             display: block;
-        
         }
         .menu-v a:hover,
         .menu-v a:active{
@@ -104,9 +100,9 @@ header{
             background-color: #6B7F34;
         }
 main{
-    width:80%;
+    width: 80%;
     float: right;
 }
 footer{
-    clear:both;
+    clear: both;
 }
